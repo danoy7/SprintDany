@@ -1,2 +1,3 @@
 # SprintDany
-Tes repository
+
+Ini adalah repository untuk belajar SPRINT :)
